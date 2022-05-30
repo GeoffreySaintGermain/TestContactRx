@@ -6,7 +6,7 @@ ContactEx
 
 
 * Authenticate with Google 
-* Access phon contacts
+* Access phone contacts
 * Also access fake contacts with data from json file
 * Scan around bluetooth peripherals
 
@@ -18,7 +18,7 @@ It works with 'GoogleSignIn', 'GoogleSignInSwiftSupport', 'RxSwift', 'RxCocoa' m
 
 ```
 git clone https://github.com/GeoffreySaintGermain/TestContactRx.git
-cd ContactEx
+cd TestContactRx
 pod install
 open ContactEx.xcworkspace
 ```
