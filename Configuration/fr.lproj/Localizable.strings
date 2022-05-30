@@ -1,0 +1,38 @@
+// MARK: Navigation
+
+"googleButtonSignIn" = "S'authentifier avec Google";
+"contactButtonNavigation" = "Contacts";
+"bluetoothButtonNavigation" = "Bluetooth";
+"deconnectUserGoogleButton" = "Déconnexion";
+
+// MARK: Contact
+
+"phoneContacts" = "Contacts du téléphone";
+"fakeContacts" = "Faux contacts";
+"sortContacts" = "Trier";
+"yourContacts" = "Vos contacts";
+"titlecontactView" = "Contacts";
+"sortByFirstName" = "Trier par prénom";
+"sortByLastName" = "Trier par nom de famille";
+"contactType" = "Type de contacts";
+"enumPhoneContact" = "Contacts du téléphone";
+"enumFakeContact"  = "Faux contacts";
+"unauthorizedAccessContactView" = "Donnez accès aux contacts pour accéder aux fonctionnalités";
+"openSettingsContact" = "Ouvrir les paramètres";
+"contactRefused" = "Accès aux contacts refusé";
+
+// MARK: Bluetooth
+
+"bluetoothSwitchOn" = "Bluetooth allumé";
+"bluetoothSwitchOff" = "Bluetooth éteint";
+"startScanningBluetoothDevices" = "Scanner les appareils aux alentours";
+"stopScanningBluetoothDevices" = "Arrêter de scanner";
+"unauthorizedAccessBluetoothView" = "Donnez accès au bluetooth pour accéder aux fonctionnalités";
+"openSettingsBluetooth" = "Ouvrir les paramètres";
+"bluetoothRefused" = "Accès au bluetooth refusé";
+
+// MARK: Language
+
+"buttonChooseLanguage" = "Langue";
+"menuLangugeFrench" = "Français";
+"menuLangugeEnglish" = "Anglais";
